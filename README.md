@@ -1,5 +1,4 @@
-[![<img src= 'https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC'>](https://github.com/ZIAN786)]
-
+  
 ### Hi there 👋, I am Zian
 #### Web Developer
 
@@ -24,10 +23,6 @@ Skills: JavaScript/ ES6/ React.js/Next.js/ Node.js/ HTML/ CSS/ Bootstrap/ Tailwi
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZIAN786&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZIAN786)  
-
-![GitHub metrics](https://metrics.lecoq.io/ZIAN786)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ZIAN786)  
 
-![Profile views](https://gpvc.arturio.dev/ZIAN786)  
+
