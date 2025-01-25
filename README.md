@@ -1,6 +1,6 @@
   
 ### Hi there 👋, I am Zian
-#### Web Developer
+#### Software Developer
 
 I'm a self-motivated and industrious new employee looking for a chance to work in an environment of challenge where I can demonstrate my abilities and apply my knowledge and intelligence to the development of the company.
 
